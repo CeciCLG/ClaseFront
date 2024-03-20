@@ -1,1 +1,4 @@
 probando
+
+git config --global user.email "cecilia.lares@bootcamp-upgrade.com"
+  git config --global user.name "Cecilia Christina"
